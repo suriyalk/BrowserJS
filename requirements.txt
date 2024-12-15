@@ -20,3 +20,4 @@ typed-ast
 urllib3
 Werkzeug
 wrapt
+gunicorn==19.7.1
